@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPF.MainForms/1.0.0": {
+        "dependencies": {
+          "Tetris": "1.0.0",
+          "WPF.Backend": "1.0.0"
+        },
+        "runtime": {
+          "WPF.MainForms.dll": {}
+        }
+      },
+      "Tetris/1.0.0": {
+        "runtime": {
+          "Tetris.dll": {}
+        }
+      },
+      "WPF.Backend/1.0.0": {
+        "runtime": {
+          "WPF.Backend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF.MainForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tetris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPF.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Tetris/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Tetris.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tetris.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "WPF.Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WPF.Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WPF.Backend.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Tetris/1.0.0": {
+      "type": "project",
+      "path": "C:\\Users\\lewis\\source\\repos\\Tetris\\Tetris\\Tetris.csproj",
+      "msbuildProject": "C:\\Users\\lewis\\source\\repos\\Tetris\\Tetris\\Tetris.csproj"
+    },
+    "WPF.Backend/1.0.0": {
+      "type": "project",
+      "path": "../WPF.Backend/WPF.Backend.csproj",
+      "msbuildProject": "../WPF.Backend/WPF.Backend.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Tetris >= 1.0.0",
+      "WPF.Backend >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lewis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "M:\\Code\\practice_projects\\cs_wpf_games\\WPF.MainForms\\WPF.MainForms.csproj",
+      "projectName": "WPF.MainForms",
+      "projectPath": "M:\\Code\\practice_projects\\cs_wpf_games\\WPF.MainForms\\WPF.MainForms.csproj",
+      "packagesPath": "C:\\Users\\lewis\\.nuget\\packages\\",
+      "outputPath": "M:\\Code\\practice_projects\\cs_wpf_games\\WPF.MainForms\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\lewis\\source\\repos\\Tetris\\Tetris\\Tetris.csproj": {
+              "projectPath": "C:\\Users\\lewis\\source\\repos\\Tetris\\Tetris\\Tetris.csproj"
+            },
+            "M:\\Code\\practice_projects\\cs_wpf_games\\WPF.Backend\\WPF.Backend.csproj": {
+              "projectPath": "M:\\Code\\practice_projects\\cs_wpf_games\\WPF.Backend\\WPF.Backend.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

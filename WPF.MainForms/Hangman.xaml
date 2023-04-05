@@ -1,0 +1,127 @@
+﻿<Window x:Class="WPF.MainForms.Hangman"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.MainForms"
+        mc:Ignorable="d"
+        Title="Hangman" Height="450" Width="800"
+        Background="DarkBlue"
+        KeyDown="Window_KeyDown">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+
+
+
+        <TextBlock Text="Hangman" Grid.Column="3" Grid.Row="1"
+                   HorizontalAlignment="Center"
+                   FontSize="50" Foreground="White" />
+
+        <TextBlock x:Name="guessedLetters" Grid.Row="2" Grid.Column="3"
+                   FontSize="60" Margin="0,30,0,0" 
+                   HorizontalAlignment="Center" Foreground="White"
+                   TextWrapping="WrapWithOverflow"/>
+
+        <TextBox x:Name="GuessCount" Grid.Row="1" Grid.Column="1"
+                 Text="10" Margin="15" FontSize="25" Foreground="White"
+                 Background="DarkBlue"/>
+
+        <TextBlock x:Name="WhosGuess" Grid.Row="3"
+                   Margin="-78,28,37,133" Foreground="White" FontSize="30" 
+                   RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3" 
+                   HorizontalAlignment="Center">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+
+        <TextBlock x:Name="UsedLetters" Grid.Column="4" Grid.Row="3" Margin="15"
+                   Background="Transparent" FontSize="16" Foreground="White" />
+
+        <TextBlock x:Name="PlayerOneScore" Grid.Column="4" Grid.Row="1" Margin="15"
+                   Background="Transparent" Foreground="White" FontSize="16" />
+
+        <Button x:Name="BackButton" Content="Back" Grid.Row="3"
+                Grid.Column="2" VerticalAlignment="Bottom" 
+                Margin="20" FontSize="20" Click="BackButton_Click"/>
+
+        <Grid Grid.Row="3" Grid.Column="3" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="Qbutton" Content="Q" Click="Qbutton_Click" Height="34" Margin="10,6,360,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Wbutton" Content="W" Click="Wbutton_Click" Height="34" Margin="50,6,320,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Ebutton" Content="E" Click="Ebutton_Click" Height="34" Margin="90,6,280,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Rbutton" Content="R" Click="Rbutton_Click" Height="34" Margin="130,6,240,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Tbutton" Content="T" Click="Tbutton_Click" Height="34" Margin="170,6,200,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Ybutton" Content="Y" Click="Ybutton_Click" Height="34" Margin="210,6,160,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Ubutton" Content="U" Click="Ubutton_Click" Height="34" Margin="250,6,120,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Ibutton" Content="I" Click="Ibutton_Click" Height="34" Margin="290,6,80,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Obutton" Content="O" Click="Obutton_Click" Height="34" Margin="330,6,40,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Pbutton" Content="P" Click="Pbutton_Click" Height="34" Margin="370,6,0,10" Grid.Row="0"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Abutton" Content="A" Click="Abutton_Click" Height="34" Margin="40,6,360,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Sbutton" Content="S" Click="Sbutton_Click" Height="34" Margin="80,6,320,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Dbutton" Content="D" Click="Dbutton_Click" Height="34" Margin="120,6,280,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Fbutton" Content="F" Click="Fbutton_Click" Height="34" Margin="160,6,240,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Gbutton" Content="G" Click="Gbutton_Click" Height="34" Margin="200,6,200,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Hbutton" Content="H" Click="Hbutton_Click" Height="34" Margin="240,6,160,10" Grid.Row="1"  Width="34" Background="AntiqueWhite"/>
+            <Button x:Name="Jbutton" Content="J" Click="Jbutton_Click" Height="34" Margin="280,6,120,10" Grid.Row="1"  Width="34" Background="AntiqueWhite"/>
+            <Button x:Name="Kbutton" Content="K" Click="Kbutton_Click" Height="34" Margin="320,6,80,10" Grid.Row="1"  Width="34" Background="AntiqueWhite"/>
+            <Button x:Name="Lbutton" Content="L" Click="Lbutton_Click" Height="34" Margin="360,6,40,10" Grid.Row="1"  Width="32" Background="AntiqueWhite"/>
+            <Button x:Name="Zbutton" Content="Z" Click="Zbutton_Click" Height="34" Margin="80,6,322,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Xbutton" Content="X" Click="Xbutton_Click" Height="34" Margin="120,6,282,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Cbutton" Content="C" Click="Cbutton_Click" Height="34" Margin="160,6,242,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Vbutton" Content="V" Click="Vbutton_Click" Height="34" Margin="200,6,202,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Bbutton" Content="B" Click="Bbutton_Click" Height="34" Margin="240,6,162,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Nbutton" Content="N" Click="Nbutton_Click" Height="34" Margin="280,6,122,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+            <Button x:Name="Mbutton" Content="M" Click="Mbutton_Click" Height="34" Margin="320,6,82,10" Grid.Row="2"  Width="33" Background="AntiqueWhite"/>
+        </Grid>
+        <Grid x:Name="PlayerMenu"
+              Background="#CC000000"
+              Grid.ColumnSpan="5"
+              Grid.RowSpan="5"
+              Visibility="Hidden">
+            <StackPanel HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+                <TextBlock Text="1 Player or 2 Player?" FontSize="40" Foreground="White"/>
+                <Button x:Name="OnePlayerButton" Content="1 Player" 
+                        Width="80" FontSize="20" Background="Transparent" 
+                        Foreground="White" BorderBrush="Aquamarine" Margin="0,20" 
+                        Click="OnePlayerButton_Click"/>
+                <Button x:Name="TwoPlayerButton" Content="2 Player" 
+                        Width="80" FontSize="20" Background="Transparent" 
+                        Foreground="White" BorderBrush="Aquamarine" Margin="0,20" 
+                        Click="TwoPlayerButton_Click"/>
+
+
+            </StackPanel>
+
+
+        </Grid>
+
+    </Grid>
+</Window>

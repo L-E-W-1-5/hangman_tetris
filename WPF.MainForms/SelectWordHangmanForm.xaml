@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF.MainForms.SelectWordHangmanForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.MainForms"
+        mc:Ignorable="d"
+        Title="Hangman" Height="300" Width="500"
+        Background="DarkBlue">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Choose a Word" FontSize="30" HorizontalAlignment="Center"
+                   Foreground="White" Grid.Row="1"/>
+
+        <TextBox x:Name="EnterWordText" Grid.Row="2" FontSize="25"
+                   Foreground="Black" Margin="20,40" Background="White"
+                   Height="40" KeyDown="EnterWordText_KeyDown" 
+                   />
+
+        <TextBlock x:Name="WhosWord" Grid.Row="0" Foreground="White"
+                   HorizontalAlignment="Center" FontSize="12" />
+
+        <Button x:Name="CreateWordButton" Content="Finished"
+                Grid.Row="3" HorizontalAlignment="Center"
+                Background="White" FontSize="18" Margin="3"
+                Height="40" VerticalAlignment="Top"
+                Click="CreateWordButton_Click"/>
+    </Grid>
+</Window>

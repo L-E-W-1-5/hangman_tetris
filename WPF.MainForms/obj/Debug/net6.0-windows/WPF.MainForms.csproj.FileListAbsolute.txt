@@ -1,0 +1,238 @@
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\ref\WPF.MainForms.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.g.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.baml
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+D:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.dev.json
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.exe
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.dll
+D:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.pdb
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.deps.json
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.dev.json
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.exe
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.dll
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+F:\code\WPFProjectTraining.this\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.pdb
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.baml
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+F:\code\WPFProjectTraining.this\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.deps.json
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.runtimeconfig.dev.json
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.exe
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.exe
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.deps.json
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.runtimeconfig.json
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.MainForms.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\WPF.Backend.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\bin\Debug\net6.0-windows\Tetris.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.AssemblyReference.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\App.g.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms_MarkupCompile.lref
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\EnterUserName.baml
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\Hangman.baml
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\HighScores.baml
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\MainWindow.baml
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\SelectWordHangmanForm.baml
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.g.resources
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfoInputs.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.AssemblyInfo.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CoreCompileInputs.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.csproj.CopyComplete
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\refint\WPF.MainForms.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\WPF.MainForms.genruntimeconfig.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.MainForms\obj\Debug\net6.0-windows\ref\WPF.MainForms.dll

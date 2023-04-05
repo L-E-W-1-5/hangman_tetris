@@ -1,0 +1,72 @@
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\refint\WPF.Backend.dll
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\ref\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
+C:\Users\lewis\OneDrive\Documents\Visual Studio 2022\VS Projects\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\refint\WPF.Backend.dll
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\Desktop\code\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\refint\WPF.Backend.dll
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+C:\Users\lewis\source\repos\Code For Restart\Restart Work Projects\WPFProjectTraining\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
+D:\code\WPFProjectTraining.this\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+D:\code\WPFProjectTraining.this\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+D:\code\WPFProjectTraining.this\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\refint\WPF.Backend.dll
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+D:\code\WPFProjectTraining.this\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.deps.json
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\bin\Debug\net6.0-windows\WPF.Backend.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.AssemblyReference.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfoInputs.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.AssemblyInfo.cs
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.csproj.CoreCompileInputs.cache
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\refint\WPF.Backend.dll
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\WPF.Backend.pdb
+M:\Code\practice_projects\cs_wpf_games\WPF.Backend\obj\Debug\net6.0-windows\ref\WPF.Backend.dll
